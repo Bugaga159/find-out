@@ -22,11 +22,21 @@ body{
 }
 .nav-h a{
 	color: #f9f9f9;
-	padding: 8px 52px !important;
+	padding: 8px 52px;
 }
 .registration{
-	padding: 31px 46px !important;
+	padding: 31px 46px;
 	margin-top: 57px;
 	border: dotted #3d96ad;
 	
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background:#1bc0ea;
+}
+.footer-nav{
+	text-align: center;
 }
